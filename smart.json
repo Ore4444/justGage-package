@@ -6,6 +6,6 @@
   "version": "0.0.1",
   "git": "https://www.github.com/Ore4444/justGage-package.git",
   "packages": {
-  	"raphaeljs-package": "*"
+  	"raphaeljs-package": "2.1.0"
   }
 }
