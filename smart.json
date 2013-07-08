@@ -1,6 +1,6 @@
 {
   "name": "justgage-package",
-  "description": "A pattern to display application errors to the user",
+  "description": "A handy JavaScript plugin for generating and animating nice & clean dashboard gauge",
   "homepage": "http://www.justgage.com",
   "author": "Bojan Djuricic",
   "version": "0.0.1",
