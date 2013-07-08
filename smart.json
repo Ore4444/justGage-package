@@ -1,9 +1,9 @@
 {
   "name": "justgage-package",
   "description": "A pattern to display application errors to the user",
-  "homepage": "http://www.justgage.com/",
-  "author": "Bojan Djuricic (@Toorshia)",
-  "version": "master",
+  "homepage": "http://www.justgage.com",
+  "author": "Bojan Djuricic",
+  "version": "0.0.1",
   "git": "https://www.github.com/Ore4444/justGage-package.git",
   "packages": {
   	"raphaeljs-package": "*"
