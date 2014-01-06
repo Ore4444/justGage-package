@@ -3,9 +3,9 @@
   "description": "A handy JavaScript plugin for generating and animating nice & clean dashboard gauge",
   "homepage": "http://www.justgage.com",
   "author": "Bojan Djuricic",
-  "version": "0.0.4",
-  "git": "https://www.github.com/Ore4444/justGage-package.git",
+  "version": "1.0.1",
+  "git": "https://github.com/Dsyko/justGage-package.git",
   "packages": {
-  	"raphaeljs-package": "0.1.0"
+  	"raphaeljs": "2.1.1"
   }
 }

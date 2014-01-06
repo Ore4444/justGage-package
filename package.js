@@ -4,6 +4,8 @@ Package.describe({
 
 Package.on_use(function (api, where) {
   api.use(['jquery'], 'client');
-
   api.add_files(['lib/justGage/justgage.js'], 'client');
+  if (typeof api.export !== 'undefined') {
+		api.export("JustGage", "client");
+	}
 });
